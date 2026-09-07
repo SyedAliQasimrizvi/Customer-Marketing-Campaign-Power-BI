@@ -4,6 +4,12 @@
 
 This Power BI project analyzes customer demographics, purchasing behavior, product spending, purchase channels, and marketing campaign performance. The dashboard is designed to help understand customer behavior and evaluate which campaigns and product categories perform best.
 
+## Power BI Project File
+
+The complete interactive Power BI report is included in this repository:
+
+**[Open / Download the Power BI .pbix file](Customer%20Marketing%20%26%20Campaign%20Performance%20Dashboard.pbix)**
+
 ## Dashboard Preview
 
 ![Customer Marketing & Campaign Performance Dashboard](dashboard/customer_marketing_campaign_dashboard.png)
@@ -118,6 +124,7 @@ SUM(marketing_data[NumStorePurchases])
 
 ```text
 Customer-Marketing-Campaign-Power-BI/
+├── Customer Marketing & Campaign Performance Dashboard.pbix
 ├── README.md
 ├── data/
 │   ├── marketing_data.csv
